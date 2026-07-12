@@ -7,6 +7,24 @@
 
 <br />
 
+## Verified Course Credentials
+
+<div align="center">
+
+<a href="https://coursera.org/share/813f78722eb96a1733052bee5e421c20">
+  <img src="https://img.shields.io/badge/Google_AI_Essentials-View_Verified_Credential-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="View Vivaan's verified Google AI Essentials credential" />
+</a>
+
+<br /><br />
+
+<a href="https://verify.skilljar.com/c/u9tn6vx2qzgu">
+  <img src="https://img.shields.io/badge/Anthropic_AI_Fluency_for_Students-View_Verified_Credential-7C3AED?style=for-the-badge" alt="View Vivaan's verified Anthropic AI Fluency for Students credential" />
+</a>
+
+</div>
+
+<br />
+
 ## Contribution Snake
 
 <div align="center">
