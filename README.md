@@ -1,8 +1,12 @@
 <!-- Premium GitHub Profile Hero -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img alt="Vivaan — AI product builder and student developer" src="./dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./dark-v2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light-v2.svg">
+  <img
+    alt="Vivaan — AI product builder and student developer"
+    src="./dark-v2.svg"
+    width="100%"
+  >
 </picture>
 
 <br />
