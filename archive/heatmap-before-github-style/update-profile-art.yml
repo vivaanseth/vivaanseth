@@ -16,9 +16,6 @@ permissions:
 jobs:
   refresh-profile:
     runs-on: ubuntu-latest
-    env:
-      GH_PROFILE_USER: vivaanseth
-      GH_PROFILE_TOKEN: ${{ secrets.GH_PROFILE_TOKEN }}
     steps:
       - name: Check out profile repository
         uses: actions/checkout@v4
