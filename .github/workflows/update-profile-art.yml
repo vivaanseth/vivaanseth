@@ -1,0 +1,35 @@
+name: Refresh animated profile
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "contrib-heatmap.svg"
+      - "data/contributions.json"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-profile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh contribution heatmap
+        run: python scripts/generate_contrib_heatmap.py
+
+      - name: Commit refreshed profile art
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh animated profile [skip ci]"
+          file_pattern: "contrib-heatmap.svg data/contributions.json"
