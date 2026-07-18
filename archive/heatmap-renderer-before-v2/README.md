@@ -8,7 +8,7 @@
 
 <h3><code>vivaan@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./contrib-heatmap.svg?v=github-renderer-v2" width="100%" alt="Vivaan's animated GitHub contribution graph — refreshed daily" />
+<img src="./contrib-heatmap.svg?v=github-like" width="100%" alt="Vivaan's animated GitHub contribution graph — refreshed daily" />
 
 <br />
 <br />
