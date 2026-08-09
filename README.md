@@ -37,8 +37,9 @@
 
 <h3><code>vivaan@github ~ $ ./contact.sh</code></h3>
 
-[![GitHub](https://img.shields.io/badge/GitHub-vivaanseth-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivaanseth)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-111827?style=for-the-badge)](YOUR_PORTFOLIO_URL)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.vivaanseth@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-vivaanseth-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivaanseth)
 
 <br />
 
