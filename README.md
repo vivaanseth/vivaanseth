@@ -25,17 +25,6 @@
 <br />
 <br />
 
-<h3><code>vivaan@github ~ $ ./projects.sh</code></h3>
-
-<p><b>Local-first desktop software · AI products · privacy-conscious tools</b></p>
-
-[![Bloom](https://img.shields.io/badge/Bloom-Desktop_Companion-22D3EE?style=for-the-badge&logo=tauri&logoColor=07111f)](https://github.com/vivaanseth/bloom)
-[![Jarvis](https://img.shields.io/badge/Jarvis-Open_Source_Assistant-7C3AED?style=for-the-badge&logo=electron&logoColor=white)](https://github.com/vivaanseth/jarvis)
-[![Upright](https://img.shields.io/badge/Upright-Private_Posture_Companion-10B981?style=for-the-badge&logo=mediapipe&logoColor=white)](https://github.com/vivaanseth/upright)
-
-<br />
-<br />
-
 <h3><code>vivaan@github ~ $ ./credentials.sh</code></h3>
 
 [![Google AI Professional Certificate](https://img.shields.io/badge/Google_AI_Professional-Certificate-4285F4?style=flat-square&logo=google&logoColor=white)](https://coursera.org/share/d95296c0c317b39b0355ff0c5384fb63)
