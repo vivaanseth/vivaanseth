@@ -49,7 +49,7 @@
 <h3><code>vivaan@github ~ $ ./contact.sh</code></h3>
 
 [![GitHub](https://img.shields.io/badge/GitHub-vivaanseth-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivaanseth)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivaanseth14@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.vivaanseth@gmail.com)
 
 <br />
 
