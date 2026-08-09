@@ -42,7 +42,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-vivaanseth-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivaanseth)
 
 <br />
-
-<sub>Building with curiosity. Improving with evidence.</sub>
-
-</div>
