@@ -10,38 +10,46 @@
 
 <table>
 <tr>
+
 <td valign="top">
-  <img src="./vivaan-wordmark.svg" width="430" alt="VIVAAN — animated ASCII wordmark" />
+  <img src="./vivaan-wordmark.svg" width="430" alt="VIVAAN — animated 3D ASCII wordmark" />
 </td>
 
 <td valign="top">
 
-<div>
-  <img src="./credentials-window-header.svg" width="430" alt="Verified credentials terminal window" />
-</div>
-<div>
+<table cellspacing="0" cellpadding="0">
+<tr><td style="line-height:0">
+  <img src="./credentials-window-header.svg" width="430" alt="Vivaan's verified credentials" />
+</td></tr>
+
+<tr><td style="line-height:0">
   <a href="https://coursera.org/share/d95296c0c317b39b0355ff0c5384fb63">
-    <img src="./credential-google-ai-professional.svg" width="430" alt="Google AI Professional Certificate — verified credential" />
+    <img src="./credential-google-ai-professional.svg" width="430" alt="Google AI Professional Certificate" />
   </a>
-</div>
-<div>
+</td></tr>
+
+<tr><td style="line-height:0">
   <a href="https://coursera.org/share/813f78722eb96a1733052bee5e421c20">
-    <img src="./credential-google-ai-essentials.svg" width="430" alt="Google AI Essentials — verified credential" />
+    <img src="./credential-google-ai-essentials.svg" width="430" alt="Google AI Essentials" />
   </a>
-</div>
-<div>
+</td></tr>
+
+<tr><td style="line-height:0">
   <a href="https://coursera.org/share/a2499fa6aa974e1558c872f73b952f47">
-    <img src="./credential-responsible-ai.svg" width="430" alt="Introduction to Responsible AI — verified credential" />
+    <img src="./credential-responsible-ai.svg" width="430" alt="Introduction to Responsible AI" />
   </a>
-</div>
-<div>
+</td></tr>
+
+<tr><td style="line-height:0">
   <a href="https://verify.skilljar.com/c/u9tn6vx2qzgu">
-    <img src="./credential-anthropic-ai-fluency.svg" width="430" alt="Anthropic AI Fluency for Students — verified credential" />
+    <img src="./credential-anthropic-ai-fluency.svg" width="430" alt="Anthropic AI Fluency for Students" />
   </a>
-</div>
-<div>
+</td></tr>
+
+<tr><td style="line-height:0">
   <img src="./credentials-window-footer.svg" width="430" alt="" />
-</div>
+</td></tr>
+</table>
 
 </td>
 </tr>
