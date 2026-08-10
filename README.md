@@ -81,13 +81,6 @@
 <br />
 <br />
 
-<h3><code>vivaan@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg?v=github-renderer-v2" width="100%" alt="Vivaan's animated GitHub contribution graph — refreshed daily" />
-
-<br />
-<br />
-
 <h3><code>vivaan@github ~ $ ./contact.sh</code></h3>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-111827?style=for-the-badge)](YOUR_PORTFOLIO_URL)
