@@ -6,13 +6,6 @@
   customized for Vivaan and independently authored.
 -->
 
-<h3><code>vivaan@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg?v=github-renderer-v2" width="100%" alt="Vivaan's animated GitHub contribution graph — refreshed daily" />
-
-<br />
-<br />
-
 <h3><code>vivaan@github ~ $ whoami</code></h3>
 
 <table>
@@ -21,6 +14,13 @@
 <td valign="top"><img src="./info-card.svg" width="490" alt="Vivaan — student developer, projects, stack, and highlights" /></td>
 </tr>
 </table>
+
+<br />
+<br />
+
+<h3><code>vivaan@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg?v=github-renderer-v2" width="100%" alt="Vivaan's animated GitHub contribution graph — refreshed daily" />
 
 <br />
 <br />
