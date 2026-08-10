@@ -2,16 +2,48 @@
 
 <!--
   Custom animated terminal-style GitHub profile.
-  The whoami section uses an original animated VIVAAN wordmark on the left
-  and a macOS-style credentials window on the right.
+  In the whoami section, each credential row is a separate linked SVG so the
+  terminal-window design stays clean while each credential remains clickable.
 -->
 
 <h3><code>vivaan@github ~ $ whoami</code></h3>
 
 <table>
 <tr>
-<td valign="top"><img src="./vivaan-wordmark.svg" width="430" alt="VIVAAN — animated 3D ASCII wordmark" /></td>
-<td valign="top"><img src="./credentials-card.svg" width="430" alt="Vivaan's verified AI credentials in a macOS-style terminal window" /></td>
+<td valign="top">
+  <img src="./vivaan-wordmark.svg" width="430" alt="VIVAAN — animated ASCII wordmark" />
+</td>
+
+<td valign="top">
+
+<div>
+  <img src="./credentials-window-header.svg" width="430" alt="Verified credentials terminal window" />
+</div>
+<div>
+  <a href="https://coursera.org/share/d95296c0c317b39b0355ff0c5384fb63">
+    <img src="./credential-google-ai-professional.svg" width="430" alt="Google AI Professional Certificate — verified credential" />
+  </a>
+</div>
+<div>
+  <a href="https://coursera.org/share/813f78722eb96a1733052bee5e421c20">
+    <img src="./credential-google-ai-essentials.svg" width="430" alt="Google AI Essentials — verified credential" />
+  </a>
+</div>
+<div>
+  <a href="https://coursera.org/share/a2499fa6aa974e1558c872f73b952f47">
+    <img src="./credential-responsible-ai.svg" width="430" alt="Introduction to Responsible AI — verified credential" />
+  </a>
+</div>
+<div>
+  <a href="https://verify.skilljar.com/c/u9tn6vx2qzgu">
+    <img src="./credential-anthropic-ai-fluency.svg" width="430" alt="Anthropic AI Fluency for Students — verified credential" />
+  </a>
+</div>
+<div>
+  <img src="./credentials-window-footer.svg" width="430" alt="" />
+</div>
+
+</td>
 </tr>
 </table>
 
