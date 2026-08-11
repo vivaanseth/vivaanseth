@@ -1,7 +1,7 @@
 {
   "source": "graphql",
   "calendar": {
-    "totalContributions": 193,
+    "totalContributions": 190,
     "weeks": [
       {
         "firstDay": "2025-08-12",
@@ -2451,8 +2451,8 @@
             "weekday": 1
           },
           {
-            "contributionCount": 5,
-            "contributionLevel": "THIRD_QUARTILE",
+            "contributionCount": 2,
+            "contributionLevel": "FIRST_QUARTILE",
             "date": "2026-08-11",
             "weekday": 2
           }
