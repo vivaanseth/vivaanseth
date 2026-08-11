@@ -11,12 +11,13 @@
 <table>
 <tr>
 <td valign="top"><img src="./vivaan-wordmark.svg" width="430" alt="VIVAAN — animated 3D ASCII wordmark"></td>
-<td valign="top"><img align="top" src="./credentials-window-header.svg" width="430" alt="Vivaan's verified credentials"><br><a href="https://coursera.org/share/d95296c0c317b39b0355ff0c5384fb63"><img align="top" src="./credential-google-ai-professional.svg" width="430" alt="Google AI Professional Certificate"></a><br><a href="https://coursera.org/share/813f78722eb96a1733052bee5e421c20"><img align="top" src="./credential-google-ai-essentials.svg" width="430" alt="Google AI Essentials"></a><br><a href="https://coursera.org/share/a2499fa6aa974e1558c872f73b952f47"><img align="top" src="./credential-responsible-ai.svg" width="430" alt="Introduction to Responsible AI"></a><br><a href="https://verify.skilljar.com/c/u9tn6vx2qzgu"><img align="top" src="./credential-anthropic-ai-fluency.svg" width="430" alt="Anthropic AI Fluency for Students"></a><br><img align="top" src="./credentials-window-footer.svg" width="430" alt=""></td>
+<td valign="top"><img align="top" src="./credentials-window-header-v2.svg" width="430" alt="Vivaan's verified credentials"><br><a href="https://coursera.org/share/d95296c0c317b39b0355ff0c5384fb63"><img align="top" src="./credential-google-ai-professional-v2.svg" width="430" alt="Google AI Professional Certificate"></a><br><a href="https://coursera.org/share/813f78722eb96a1733052bee5e421c20"><img align="top" src="./credential-google-ai-essentials-v2.svg" width="430" alt="Google AI Essentials"></a><br><a href="https://coursera.org/share/a2499fa6aa974e1558c872f73b952f47"><img align="top" src="./credential-responsible-ai-v2.svg" width="430" alt="Introduction to Responsible AI"></a><br><a href="https://verify.skilljar.com/c/u9tn6vx2qzgu"><img align="top" src="./credential-anthropic-ai-fluency-v2.svg" width="430" alt="Anthropic AI Fluency for Students"></a><br><img align="top" src="./credentials-window-footer-v2.svg" width="430" alt=""></td>
 </tr>
 </table>
 
 <br>
 <br>
+
 
 
 
