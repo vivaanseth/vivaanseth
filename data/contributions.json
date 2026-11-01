@@ -1,19 +1,8 @@
 {
   "source": "graphql",
   "calendar": {
-    "totalContributions": 294,
+    "totalContributions": 295,
     "weeks": [
-      {
-        "firstDay": "2025-11-01",
-        "contributionDays": [
-          {
-            "contributionCount": 0,
-            "contributionLevel": "NONE",
-            "date": "2025-11-01",
-            "weekday": 6
-          }
-        ]
-      },
       {
         "firstDay": "2025-11-02",
         "contributionDays": [
@@ -2451,10 +2440,21 @@
             "weekday": 5
           },
           {
-            "contributionCount": 0,
-            "contributionLevel": "NONE",
+            "contributionCount": 1,
+            "contributionLevel": "FIRST_QUARTILE",
             "date": "2026-10-31",
             "weekday": 6
+          }
+        ]
+      },
+      {
+        "firstDay": "2026-11-01",
+        "contributionDays": [
+          {
+            "contributionCount": 0,
+            "contributionLevel": "NONE",
+            "date": "2026-11-01",
+            "weekday": 0
           }
         ]
       }
