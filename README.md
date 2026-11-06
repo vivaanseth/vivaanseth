@@ -28,7 +28,9 @@
 <br />
 <br />
 
+<!--
 <h3><code>vivaan@github ~ $ ./contact.sh</code></h3>
+-->
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-111827?style=for-the-badge)](YOUR_PORTFOLIO_URL)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.vivaanseth@gmail.com)
